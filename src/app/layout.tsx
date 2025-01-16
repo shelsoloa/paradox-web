@@ -28,7 +28,7 @@ export default function RootLayout({
       <body
         // className={`${geistSans.variable} ${geistMono.variable} antialiased bg-stone-200`}
         style={{
-          backgroundImage: `url(/bg3.JPG)`,
+          backgroundImage: `url(/bg7.JPG)`,
           backgroundSize: 'cover',
           backgroundPosition: 'center',
         }}
